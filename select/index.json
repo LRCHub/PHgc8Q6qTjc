@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Congratulations",
+  "base_artist": "PewDiePie",
+  "createdAt": "2025-12-09T19:11:19.160474Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Congratulations",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/01_Congratulations_Drake.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Congratulations",
+      "artist": "MGMT",
+      "has_synced": true,
+      "path": "select/02_Congratulations_MGMT.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Congratulations - Erol Alkan Remix",
+      "artist": "MGMT",
+      "has_synced": false,
+      "path": "select/03_Congratulations_-_Erol_Alkan_Remix_MGMT.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Congratulations - triple j Like a Version",
+      "artist": "Superorganism",
+      "has_synced": false,
+      "path": "select/04_Congratulations_-_triple_j_Like_a_Version_Superorganism.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Your Congratulations",
+      "artist": "Alanis Morissette",
+      "has_synced": true,
+      "path": "select/05_Your_Congratulations_Alanis_Morissette.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Congratulations",
+      "artist": "Blue October feat. Imogen Heap",
+      "has_synced": true,
+      "path": "select/06_Congratulations_Blue_October_feat._Imogen_Heap.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Congratulations",
+      "artist": "Paul Simon",
+      "has_synced": false,
+      "path": "select/07_Congratulations_Paul_Simon.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Congratulations",
+      "artist": "Post Malone feat. Quavo",
+      "has_synced": true,
+      "path": "select/08_Congratulations_Post_Malone_feat._Quavo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Congratulations (feat. Quavo)",
+      "artist": "Post Malone",
+      "has_synced": true,
+      "path": "select/09_Congratulations_(feat._Quavo)_Post_Malone.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Congratulations",
+      "artist": "Juliana Hatfield",
+      "has_synced": false,
+      "path": "select/10_Congratulations_Juliana_Hatfield.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Congratulations",
+      "artist": "Jimmy Eat World",
+      "has_synced": false,
+      "path": "select/11_Congratulations_Jimmy_Eat_World.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Congratulations",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/12_Congratulations_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Congratulations",
+      "artist": "The Rolling Stones",
+      "has_synced": false,
+      "path": "select/13_Congratulations_The_Rolling_Stones.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Congratulations",
+      "artist": "Traveling Wilburys",
+      "has_synced": true,
+      "path": "select/14_Congratulations_Traveling_Wilburys.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Congratulations",
+      "artist": "The Traveling Wilburys",
+      "has_synced": true,
+      "path": "select/15_Congratulations_The_Traveling_Wilburys.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Congratulations Song",
+      "artist": "Corrosion of Conformity",
+      "has_synced": true,
+      "path": "select/16_Congratulations_Song_Corrosion_of_Conformity.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Congratulations",
+      "artist": "Hollywood Vampires feat. Alice Cooper & Joe Perry",
+      "has_synced": false,
+      "path": "select/17_Congratulations_Hollywood_Vampires_feat._Alice_Cooper_&_Joe_Perry.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Congratulations",
+      "artist": "pewdiepie, Roomie, Boyinaband",
+      "has_synced": false,
+      "path": "select/pl_01_Congratulations_pewdiepie,_Roomie,_Boyinaband.txt"
+    }
+  ]
+}
